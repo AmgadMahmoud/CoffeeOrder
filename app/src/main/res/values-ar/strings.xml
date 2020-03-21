@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Order</string>
+    <string name="coffee">قهوة</string>
+    <string name="order_type">اختر نوع الطلب</string>
+    <string name="out_order">طلب خارجى</string>
+    <string name="developed_by">تم بواسطة: أمجد محمود</string>
+    <string name="table_number">رقم الطاولة:</string>
+    <string name="enter_table_number">ادخل رقم الطاولة</string>
+    <string name="start_order">ابدأ الطلب</string>
+    <string name="customer_name">اسم العميل:</string>
+    <string name="enter_customer_name">ادخل اسم العميل</string>
+    <string name="phone_number">رقم الهاتف:</string>
+    <string name="enter_phone_number">ادخل رقم الهاتف</string>
+    <string name="address">العنوان:</string>
+    <string name="enter_address">ادخل العنوان</string>
+    <string name="quantity">الكمية</string>
+    <string name="toppings">الإضافات</string>
+    <string name="whipped_cream">كريمة</string>
+    <string name="chocolate">شوكولاته</string>
+    <string name="order">اطلب</string>
+    <string name="in_order">طلب داخلى</string>
+    <string name="order_summary">اجمالى الطلب</string>
+</resources>
